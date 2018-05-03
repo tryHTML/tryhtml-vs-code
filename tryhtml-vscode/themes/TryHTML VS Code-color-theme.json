@@ -1,8 +1,8 @@
 {
-	"name": "TryHTML VS-Code",
+	"name": "TryHTML VS Code",
 	"type": "dark",
 	"colors": {
-		"editor.background": "#ae2525",
+		"editor.background": "#bf1717",
 		"editor.foreground": "#d4d4d4",
 		"activityBarBadge.background": "#007acc",
 		"sideBarTitle.foreground": "#bbbbbb"

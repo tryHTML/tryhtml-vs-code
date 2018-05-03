@@ -1,0 +1,22 @@
+{
+    "name": "tryhtml-vscode",
+    "displayName": "TryHTML VS Code Theme",
+    "description": "TryHTML VS Code Theme, Let's code in indigo.",
+    "version": "0.0.1",
+    "publisher": "TryHTML",
+    "engines": {
+        "vscode": "^1.23.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "TryHTML VS Code",
+                "uiTheme": "vs-dark",
+                "path": "./themes/TryHTML VS Code-color-theme.json"
+            }
+        ]
+    }
+}
