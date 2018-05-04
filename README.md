@@ -3,6 +3,8 @@
 
 > TryHTML theme for [VS Code](https://code.visualstudio.com/). Let's code in Indigo.
 
+[![thl badge](https://imagestryht.ml/themes/vs-code/vscode-badge.svg)](https://github.com/19cah)
+
 # Donate
 
 [![Become a Patreon](media/patreon.png)](https://www.patreon.com/bePatron?u=10553679)
