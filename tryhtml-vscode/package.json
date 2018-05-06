@@ -18,7 +18,7 @@
             {
                 "label": "TryHTML VS Code",
                 "uiTheme": "vs-dark",
-                "path": "./themes/TryHTML VS Code-color-theme.json"
+                "path": "./themes/tryhtml-vscode.json"
             }
         ]
     }

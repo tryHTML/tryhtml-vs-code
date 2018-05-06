@@ -1,12 +1,6 @@
 {
-	"name": "TryHTML VS Code",
+	"name": "Try HTML VS Code",
 	"type": "dark",
-	"colors": {
-		"editor.background": "#220438", 
-		"editor.foreground": "#8a0047", 
-		"activityBarBadge.background": "#7795b5", 
-		"sideBarTitle.foreground": "#e7e4eb" 
-	},
 	"tokenColors": [
 		{
 			"settings": {
@@ -41,7 +35,7 @@
 				"constant.other.color"
 			],
 			"settings": {
-				"foreground": "#ffffff" //Up to here
+				"foreground": "#ffffff"
 			}
 		},
 		{
@@ -51,7 +45,7 @@
 				"invalid.illegal"
 			],
 			"settings": {
-				"foreground": "#FF5370"
+				"foreground": "#ff53f9"
 			}
 		},
 		{
@@ -602,7 +596,7 @@
 				"markup.raw.block.fenced.markdown"
 			],
 			"settings": {
-				"foreground": "#00000050"
+				"foreground": "#ffffff50"
 			}
 		},
 		{
@@ -678,5 +672,19 @@
 				"foreground": "#b267e6"
 			}
 		}
-	]
+	],
+	"colors": {
+		"editor.background": "#220438", 
+		"editor.foreground": "#8a0047", 
+		"activityBarBadge.background": "#7795b5",
+		"sideBarTitle.foreground": "#e7e4eb",
+		"sideBar.background": "#1c0526",
+		"sideBar.foreground": "#e7e4eb",
+		"dropdown.background": "#3d0b54",
+		"dropdown.listBackground": "#3d0b54",
+		"dropdown.border": "#633b76",
+		"input.background": "#3d0b54",
+		"input.border": "#633b76"
+		
+	}
 }
