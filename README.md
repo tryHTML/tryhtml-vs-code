@@ -5,6 +5,9 @@
 
 [![thl badge](https://imagestryht.ml/themes/vs-code/vscode-badge.svg)](https://github.com/19cah)
 
+
+[Reference](https://code.visualstudio.com/docs/getstarted/theme-color-reference#_text-colors)
+
 # Social
 
 >[![Twitter](https://imagestryht.ml/themes/twitter.png)](https://twitter.com/tryhtml)
